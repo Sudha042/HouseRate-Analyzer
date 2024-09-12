@@ -1,5 +1,4 @@
-# HouseRate-Analyzer
-# House Price Prediction Project
+# HouseRate Analyser
 
 ## Overview
 This project uses machine learning to predict house prices based on a dataset with **7120 rows** and **108 features**. The **Random Forest** algorithm was selected for this task because it provided better accuracy compared to other models like Decision Tree and Linear Regression.
@@ -11,6 +10,7 @@ This project uses machine learning to predict house prices based on a dataset wi
 - [Model Selection](#model-selection)
 - [Performance Evaluation](#performance-evaluation)
 - [How to Use](#how-to-use)
+- [Project Link](#project-link)
 - [Conclusion](#conclusion)
 
 ## Introduction
