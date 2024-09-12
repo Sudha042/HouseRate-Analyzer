@@ -10,7 +10,7 @@ This project uses machine learning to predict house prices based on a dataset wi
 - [Model Selection](#model-selection)
 - [Performance Evaluation](#performance-evaluation)
 - [How to Use](#how-to-use)
-- [Project Link](https://colab.research.google.com/drive/1NSLtMlMykhOJk-p0ryHSzjv18vWIn4XI?usp=sharing)
+- [Project Link](https://colab.research.google.com/drive/1ABmKYFSxYhR76sjDnf9FwMthQBDtMkrO?usp=sharing)
 - [Conclusion](#conclusion)
 
 ## Introduction
